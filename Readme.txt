@@ -1,8 +1,8 @@
 ---------------------------------------------------------------------------------------
 
-    ATOM-15 v1.5 - ATOMBIOS 15/25/31 kHz Modder
+    ATOM-15 v1.6 - ATOMBIOS 15/25/31 kHz Modder
 
-    by Calamity - October 2014 - December 2017
+    by Calamity - October 2014 - October 2021
 
     for further documentation, visit: http://geedorah.com/eiusdemmodi/
 
@@ -145,6 +145,9 @@ http://geedorah.com/eiusdemmodi/
 
 Version history
 ---------------
+
+- v1.6 - October 2021
+    - Added support R9 380/380X.
 
 - v1.5 - December 2017
     - Added support for composite sync.

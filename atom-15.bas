@@ -1,9 +1,9 @@
 '==============================================================================
-'  ATOM-15 v1.5
+'  ATOM-15 v1.6
 '  ATOMBIOS 15/25/31 kHz Modder
 '
 '  Author: Antonio Giner González
-'  Date:   October 2014 - December 2017
+'  Date:   October 2014 - October 2021
 '
 '  atom-15.bas
 '==============================================================================
@@ -19,7 +19,7 @@
 '  Constants
 '============================================================
 
-  $APP_NAME = "ATOM-15 v1.5"
+  $APP_NAME = "ATOM-15 v1.6"
   %BIOS_MAX_SIZE = 256 * 1024
   %BIOS_MIN_SIZE = 64 * 1024
   %BIOS_ENTRY_POINT = &h0003
